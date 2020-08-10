@@ -10,7 +10,7 @@ exports[`Storyshots Avatar With Gradient Seed 1`] = `
     }
   >
     <div
-      className=""
+      className="undefined"
       style={
         Object {
           "background": "linear-gradient(315deg, rgb(55,105,230) 0%, rgb(179,164,244) 100%)",
@@ -31,7 +31,7 @@ exports[`Storyshots Avatar With Gradient Seed 1`] = `
     }
   >
     <div
-      className=""
+      className="undefined"
       style={
         Object {
           "background": "linear-gradient(315deg, rgb(185,68,218) 0%, rgb(238,170,217) 100%)",
@@ -106,7 +106,7 @@ exports[`Storyshots Avatar With Icon 1`] = `
       }
     >
       <i
-        className="fa fa-salesforce"
+        className="fab fa-salesforce"
       />
     </div>
   </div>
@@ -127,7 +127,7 @@ exports[`Storyshots Avatar With Icon 1`] = `
       }
     >
       <i
-        className="fa fa-magento"
+        className="fab fa-magento"
       />
     </div>
   </div>
@@ -190,7 +190,7 @@ exports[`Storyshots Avatar With Icon 1`] = `
       }
     >
       <i
-        className="fa fa-salesforce"
+        className="fab fa-salesforce"
       />
     </div>
   </div>
@@ -211,7 +211,7 @@ exports[`Storyshots Avatar With Icon 1`] = `
       }
     >
       <i
-        className="fa fa-magento"
+        className="fab fa-magento"
       />
     </div>
   </div>
@@ -228,10 +228,10 @@ exports[`Storyshots Avatar With Image 1`] = `
     }
   >
     <div
-      className=""
-      style={Object {}}
+      className="undefined"
     >
       <img
+        alt=""
         className=""
         onError={[Function]}
         onLoad={[Function]}
@@ -247,10 +247,10 @@ exports[`Storyshots Avatar With Image 1`] = `
     }
   >
     <div
-      className=""
-      style={Object {}}
+      className="undefined"
     >
       <img
+        alt=""
         className=""
         onError={[Function]}
         onLoad={[Function]}
@@ -263,7 +263,7 @@ exports[`Storyshots Avatar With Image 1`] = `
 exports[`Storyshots Avatar With Initials 1`] = `
 <div>
   <small>
-    User one name John - should print "J".
+    User with one name John - should print "J".
   </small>
   <div
     style={
@@ -442,7 +442,7 @@ exports[`Storyshots Avatar With User 1`] = `
     }
   >
     <div
-      className=""
+      className="undefined"
       style={Object {}}
     >
       <img

@@ -46,7 +46,7 @@ export const withIcon: React.FC = () => (
     </div>
     <br />
     <div style={{ width: '32px' }}>
-      <AvatarIcon isSmallIcon iconKey="paper-plane" color={color('Background(1)', '#5644D')} />
+      <AvatarIcon isSmallIcon iconKey="paper-plane" color={color('Background(1)', '#5644D8')} />
     </div>
     <br />
     <div style={{ width: '32px' }}>
